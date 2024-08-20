@@ -1,5 +1,5 @@
-#Foodei 
-### webapp firebase hosting url : 
+# Foodei 
+* webapp firebase hosting url : * []
 
 Foodei is a **B2B marketplace** that allows business abroad to have direct access to food suppliers and farmers in Nigeria. this is just a waitinglist typeshit ( i had work too much in this stuff)
 
