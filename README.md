@@ -1,15 +1,24 @@
-Foodei
+#Foodei 
+### webapp firebase hosting url : 
 
-Foodei is a B2B marketplace that allows business abroad to have direct access to food suppliers and farmers in Nigeria. this is just a waitinglist typeshit ( i had work too much in this stuff)
+Foodei is a **B2B marketplace** that allows business abroad to have direct access to food suppliers and farmers in Nigeria. this is just a waitinglist typeshit ( i had work too much in this stuff)
+
+---
 
 Features:
-WaitingList: Simple
+- WaitingList 
+- View All Catlog
 
 You would find Code for :
-Login, SignUp, Dashboard ( Listing Products )
+- Login 
+- SignUp
+- Dashboard 
+  - ( To list Products )
+
+MoralLesson
+> Build Stuffs Fast, dont waste time ( and just dont try to build everything yourself, you are not even that smart )
 
 Installation
-
 To set up Foodei locally, follow these steps:
 1. **Clone the Repository**
    ```bash
@@ -24,7 +33,7 @@ To set up Foodei locally, follow these steps:
    npm install
    ```
 4. **Set Up Environment Variables**
-   i didnt set any env, u just copy and pasted it ( and thats why its private obviously )
+   **i didnt set any env, u just copy and pasted it ( and thats why its private obviously )**
 
 
 5. **Run the Development Server**
@@ -69,7 +78,7 @@ This project is privately managed and not open-source. All rights are reserved.
 
 ## Contact
 
-For any questions or internal support, please contact [stonescode001@gmail.con].
+For any questions or internal support, please contact [stonescode001@gmail.com].
 
 ## Acknowledgments
 
